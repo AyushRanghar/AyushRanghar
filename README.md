@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AyushRanghar
-- 👀 I’m interested in ...learning computer technologies and i love games
+- 👀 I’m interested in ...learning computer technologies
 - 🌱 I’m currently learning ...Python and its libraries for Data science.
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
